@@ -27,7 +27,6 @@ Add a new column named month_name that contains the extracted months of the year
 
 # Generic Question
 1. How many unique cities does the data have?
-2. In which city is each branch?
 # Product
 1. How many unique product lines does the data have?
 2. What is the most common payment method?
